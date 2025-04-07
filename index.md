@@ -16,4 +16,3 @@ Behavior Criteria
 - Upholds promise
 - Honesty
 - Communicates regularly on Discord
-- 
