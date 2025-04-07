@@ -1,1 +1,1 @@
-Test
+theme: jekyll-theme-slate
