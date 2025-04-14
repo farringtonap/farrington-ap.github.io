@@ -17,6 +17,20 @@ Behavior Criteria
 - Honesty
 - Communicates regularly on Discord
 
+# Deployment
+
+https://apcoursemanager.vercel.app/
+
+# Relative Links
+
+Github Organization: https://github.com/orgs/farringtonap/repositories
+
+Team Contract: https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing
+
+# M1
+
+Project Board Link: https://github.com/orgs/farringtonap/projects/3
+
 # Mockups Pages:
 
 ## Landing Page
