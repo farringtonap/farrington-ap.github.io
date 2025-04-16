@@ -19,17 +19,17 @@ Behavior Criteria
 
 # Deployment
 
-https://apcoursemanager.vercel.app/
+[https://apcoursemanager.vercel.app/](https://apcoursemanager.vercel.app/)
 
 # Relative Links
 
-Github Organization: https://github.com/orgs/farringtonap/repositories
+Github Organization: [https://github.com/orgs/farringtonap/repositories](https://github.com/orgs/farringtonap/repositories)
 
-Team Contract: https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing
+Team Contract: [https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing](https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing)
 
 # M1
 
-Project Board Link: https://github.com/orgs/farringtonap/projects/3
+Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/3)
 
 # Mockups Pages:
 
