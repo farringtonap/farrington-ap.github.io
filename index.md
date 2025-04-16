@@ -31,6 +31,10 @@ Team Contract: [https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONR
 
 Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/3)
 
+# M2
+
+Project Board Link: [https://github.com/orgs/farringtonap/projects/4](https://github.com/orgs/farringtonap/projects/4)
+
 # Milestone 1 Progression
 
 ## Landing Page
