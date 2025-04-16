@@ -31,7 +31,18 @@ Team Contract: [https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONR
 
 Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/3)
 
-# Mockups Pages:
+# Milestone 1 Progression
+
+## Landing Page
+![Screenshot of the current Landing Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/landing-page-milestone1.png)
+
+## Sign In Page
+![Screenshot of the current Sign In Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-in-page-milestone1.png)
+
+## Sign Up Page
+![Screenshot of the current Sign Up Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-up-page-milestone1.png)
+
+# Mockups Pages
 
 ## Landing Page
 ![Screenshot of the Landing Page Mockup for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-designmockup/landing-page-mockup.png)
