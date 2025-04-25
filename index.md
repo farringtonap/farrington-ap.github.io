@@ -27,25 +27,6 @@ Github Organization: [https://github.com/orgs/farringtonap/repositories](https:/
 
 Team Contract: [https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing](https://docs.google.com/document/d/1ze4JMEOuv-2TEV-2IcM4VQ12fONRzIiYdRZjDBzn8aI/edit?usp=sharing)
 
-# M1
-
-Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/3)
-
-# M2
-
-Project Board Link: [https://github.com/orgs/farringtonap/projects/4](https://github.com/orgs/farringtonap/projects/4)
-
-# Milestone 1 Progression
-
-## Landing Page
-![Screenshot of the current Landing Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/landing-page-milestone1.png)
-
-## Sign In Page
-![Screenshot of the current Sign In Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-in-page-milestone1.png)
-
-## Sign Up Page
-![Screenshot of the current Sign Up Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-up-page-milestone1.png)
-
 # Mockups Pages
 
 ## Landing Page
@@ -79,3 +60,42 @@ The AP Teacher page is similar as it is meant for the AP Teacher of the class to
 ## Assessment Form Page 
 ![Screenshot of the Assessment Form Page Mockup for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-designmockup/assessment-form-page-mockup.png)
 The Assessment Form page is meant for students to provide information on their strengths and weaknesses in certain subjects. After the form is filled out we will dynamically generate classes that would best fit the student based on their strengths.
+
+# M1
+
+Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/3)
+
+# Milestone 1 Progression
+
+## Landing Page
+![Screenshot of the current Landing Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/landing-page-milestone1.png)
+
+## Sign In Page
+![Screenshot of the current Sign In Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-in-page-milestone1.png)
+
+## Sign Up Page
+![Screenshot of the current Sign Up Page for Milestone 1](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone1/sign-up-page-milestone1.png)
+
+# M2
+
+Project Board Link: [https://github.com/orgs/farringtonap/projects/4](https://github.com/orgs/farringtonap/projects/4)
+
+# Milestone 2 Progression
+
+## Landing Page
+![Screenshot of the current Landing Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/landing-page-milestone2.png)
+
+## AP Classes Page
+![Screenshot of the current AP Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/ap-classes-page-milestone2.png)
+
+## AP Classes Detail Page
+![Screenshot of the current AP Detail Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/ap-classes-detail-page-milestone2.png)
+
+## Assessment Form Page
+![Screenshot of the current AP Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/assessment-form-page-milestone2.png)
+
+## Sign In Page
+![Screenshot of the current AP Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/sign-in-page-milestone2.png)
+
+## Sign Up Page
+![Screenshot of the current AP Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/sign-up-page-milestone2.png)
