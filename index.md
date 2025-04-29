@@ -99,3 +99,7 @@ Project Board Link: [https://github.com/orgs/farringtonap/projects/4](https://gi
 
 ## Sign Up Page
 ![Screenshot of the current AP Classes Page for Milestone 2](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/apcoursemanager-current-state-milestone2/sign-up-page-milestone2.png)
+
+# M3
+
+Project Board Link: [https://github.com/orgs/farringtonap/projects/3](https://github.com/orgs/farringtonap/projects/5)
