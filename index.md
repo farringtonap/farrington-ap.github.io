@@ -1,25 +1,61 @@
-Goals
-- Improve with Project Management with things like meetings and issue management
-- Learn how to setup a project with CI/CD pipelines, and environment secrets
-- Getting an understanding of what it is like to work in a team on a project
-- Clear documentation and communication
+# Overview
+At Farrington High School, they offer Advanced Placement (AP for short) courses that help prepare 9th-12th graders for college-level classes. At the end of the school year, students can take the AP exam and can earn college credit based on their score. However, it is hard to get students to apply for the various APs offered at Farrington due to the lack of marketing and promotion for them. Even though there are tools like Google Sites, it’s hard for teachers and staff to utilize them as they have to learn how to use it and also understand and apply core web design principles to market their class in a stylish, informative way; which takes away time that they could use for lesson plans, grading assignments, and preparing them for the exam. Using our tech stack, we can implement a web app that abstracts away the design aspect and allows the faculty and staff of the AP program to focus more on updating information for the AP Classes. The idea here is that trusted users can login to the app and then update class availability and information, while students can look at the website to see what classes will be offered for the upcoming school year and get a general idea of what the class is about.
 
-Contribution Criteria
-- Show up to meetings
-- Take issues / assignments from projects
-- Regular progress checks 
+# User Guide
 
-Behavior Criteria
-- Good Communication
-- Healthy Arguments / Criticism
-- Punctual with deadlines
-- Upholds promise
-- Honesty
-- Communicates regularly on Discord
+# Developer Guide
+
+This codebase uses the following technologies:
+- NextJs &rarr; Opinionated framework that handles routing, authentication, and much more. 
+- React &rarr; Reusability for components across website
+- Bootstrap &rarr; Styling framework 
+- Prisma &rarr; ORM to easily manage and update the structure and schema of the database
+- Postgres &rarr; Database to house data related to the AP Courses
+- Playwright &rarr; Visual regression testing for websites
+
+### Getting Started
+
+1. Run `npm install` to install all dependencies for this project
+2. Create a `.env` file in the root directory
+3. Add in the secrets from the discord into the `.env` file
+4. Modify the `DATABASE_URL` secret 
+    - update username to your postgres account
+    - update password to your postgres account
+5. Create your db located in the `DATABASE_URL`
+6. Run the following commands in the terminal
+    - `npx prisma db migrate`
+    - `npx prisma db seed`
+7. Afterwards, run `npm run dev` and verify that local development works. 
+
+### Getting the AI Working
+
+1. Install python & pip (pip should come with python install)
+2. `python -m venv venv` to create a virtual environment called `venv`
+3. Activate the virtual environment 
+    -  Mac / Linux: `source path/to/venv/Scripts/Activate`
+    -  Windows: `path/to/venv/Scripts/Activate`
+4. cd into python-backend
+5. Run `pip install -r requirements.txt`
+6. cd back into root directory and run `uvicorn main:app --reload --port 8000`
 
 # Deployment
 
 [https://apcoursemanager.vercel.app/](https://apcoursemanager.vercel.app/)
+
+# Community Feedback
+After getting community feedback from 5 Farrington HS community members who tested our application's functionality here are the main points they had to say about it
+
+### User Friendly
+The application was very user friendly for both students and school faculty as it enables students to quickly look for the currently offered AP classes for that semester, and allows faculty to swiftly make quick changes.
+
+### User Interface
+It was noted that the UI, especially the navbar, were both nice to look at and server their purpose. For the faculty, the use of dropdowns were very convenient. Along with the buttons such as, add and delete being green and red respectively adds to simplicity of using the application.
+
+### One Background Image
+Another thing of note was that while using the football field of Farrington HS was nice, it gets bland, especially when its on every page. One thing that could improve upon it would be to add different angles or different images of the school on each page. Also, possibly picking a images better suiting each page as some of the text needed a box shadow in order to be seen.
+
+### Consistency
+While the website design does its best to look consistent across the board there are still some inconsistency to be seen. For example, on the Add/Edit AP Courses page the two cards present are not the same width. 
 
 # Relative Links
 
