@@ -5,6 +5,53 @@ At Farrington High School, they offer Advanced Placement (AP for short) courses 
 
 # User Guide
 
+Learn how to navigate our website here!
+
+### Landing Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/landing-page.png)
+
+The landing page provides general information about AP classes at Farrington HS like the benefits, purpose, no-drop policy, etc.
+
+### AP Classes Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/ap-classes-page.png)
+
+This page displays are the AP classes offered at Farrington HS. If it is offered that school year there will be a green checkmark image, if not it will show a red cross instead.
+
+### Assessment Form Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/assessment-form-page.png)
+
+This page leverages the power of AI by giving a student recommended after they fill out the form. This form asks a student their interests, previous courses taken, GPA, and current grade. 
+
+
+#### Note: The next few pages can only be accessed by a trusted user like an admin.
+
+### Add/Edit Classes Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/add-edit-classes-page1.png)
+This section of the page allows trusted users to add AP classes and allows them to fill out fields like, class name, teacher email, description, etc.
+
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/add-edit-classes-page2.png)
+The section manages current AP classes by either editing a certain fields or deleting them entirely.
+
+### Add/Edit Subjects Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/add-edit-subject-page.png)
+This page allows an admin to add, edit or delete a current subject. Adding a subject is as simple as inputting the subject name and clicking the add subject button. As for editing, a user would need to click edit and modify the desired field. And the delete button wipes that subject from the database
+
+### Add/Edit Prerequisites Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/add-edit-prerequisites-page.png)
+This page allows an admin to a new prerequisite by adding the prerequisite name and including the subject its attached to. Editing a prerequisite changes its name and the subject its attached to. And deleting wipes it from the database 
+
+### Admin Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/admin-page.png)
+The admin page allows the admin only to add and edit current users in the database for example, they could change a teachers name or email address.
+
+### Sign In Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/signin-page.png)
+The sign in page allows a user who is currently in the database to sign in with their credentials in order to access their side of the site like and admin or teacher.
+
+### Sign Up Page
+![Screenshot of the Landing Page for apcoursemanager](https://raw.githubusercontent.com/farringtonap/apcoursemanager/refs/heads/main/doc/user-guide-images/signup-page.png)
+The sign up page is for users currently not in the database like a new teacher to get in the database and have the powers of a teacher on the site.
+
 # Developer Guide
 
 This codebase uses the following technologies:
